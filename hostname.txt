@@ -1,0 +1,1 @@
+hostname = zhidao.baidu.com, *.googlevideo.com, www.zhihu.com
