@@ -23,7 +23,9 @@ DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,hockeyapp.net
-DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,awsstatic.com
-DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,bing.com
+
