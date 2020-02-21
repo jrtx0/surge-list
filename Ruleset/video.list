@@ -18,3 +18,6 @@ DOMAIN-SUFFIX,youtu.be
 USER-AGENT,*YouTube*
 USER-AGENT,com.google.ios.youtube*
 
+# Pornhub
+DOMAIN-SUFFIX,pornhub.com
+
