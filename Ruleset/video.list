@@ -10,15 +10,14 @@ DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
 
 # YouTube
-USER-AGENT,*YouTube*
-USER-AGENT,com.google.ios.youtube*
-DOMAIN,youtubei.googleapis.com
-DOMAIN-SUFFIX,youtube.com
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
+DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
 
 # Adult
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,91porn.com
+DOMAIN-KEYWORD,pornhub
+DOMAIN-KEYWORD,91porn.com
 
