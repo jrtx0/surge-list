@@ -3,6 +3,14 @@ USER-AGENT,MApi*
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
 
+# SpeedTest
+USER-AGENT,SpeedTest*
+DOMAIN-KEYWORD,speedtest
+
+# BT
+URL-REGEX,(torrent|\.torrent|peer_id=|info_hash|get_peers|find_node|BitTorrent|announce_peer|protocol|announce\.php\?passkey=)
+
+
 # Misc
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,bootcss.com
@@ -113,8 +121,4 @@ DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,soku.com
 
-
-
-# BT
-URL-REGEX,(torrent|\.torrent|peer_id=|info_hash|get_peers|find_node|BitTorrent|announce_peer|protocol|announce\.php\?passkey=)
 
