@@ -14,7 +14,4 @@ DOMAIN,net.rayjump.com
 DOMAIN,report.adview.cn
 DOMAIN-SUFFIX,doubleclick.net
 
-# 印象笔记
-URL-REGEX,"^https?:\/\/app\.yinxiang\.com\/ads\/getAdsInfo$"
-
 
