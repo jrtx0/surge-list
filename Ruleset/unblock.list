@@ -1,30 +1,6 @@
 # Alibaba
 DOMAIN-KEYWORD,alipay
-DOMAIN-KEYWORD,taobao
-DOMAIN-KEYWORD,alicdn
-DOMAIN-KEYWORD,aliyun
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,mi.com
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,youku.com
-IP-CIDR,198.11.188.0/25
-IP-CIDR,198.11.136.0/24
 
 # Tencent
-USER-AGENT,WeChat*
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,gtimg.com
-DOMAIN-SUFFIX,txfund.com
 DOMAIN-SUFFIX,tenpay.com
-DOMAIN-SUFFIX,idqqimg.com
-DOMAIN-SUFFIX,weiyun.com
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,smtcdns.com
-DOMAIN-SUFFIX,qcloud.com
-DOMAIN-SUFFIX,myqcloud.com
-DOMAIN-SUFFIX,qcloudimg.com
-DOMAIN-SUFFIX,weixinbridge.com
-
-
 
