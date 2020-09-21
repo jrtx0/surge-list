@@ -1,12 +1,3 @@
-# China Apps
-USER-AGENT,MApi*
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
-
-# Misc
-DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,servicewechat.com
-
 # Alibaba
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
@@ -20,28 +11,8 @@ DOMAIN-SUFFIX,youku.com
 IP-CIDR,198.11.188.0/25
 IP-CIDR,198.11.136.0/24
 
-# Baidu
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,bdimg.com
-DOMAIN-SUFFIX,baidupcs.com
-DOMAIN-SUFFIX,baidupan.com
-DOMAIN-SUFFIX,bcebos.com
-DOMAIN-SUFFIX,bdstatic.com
-
-# Bilibili
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-
-# JD
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,300hu.com
-DOMAIN-SUFFIX,360buyimg.com
-DOMAIN-SUFFIX,jdcloud.com
-DOMAIN-SUFFIX,jcloudcs.com
-
 # Tencent
+USER-AGENT,WeChat*
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,txfund.com
