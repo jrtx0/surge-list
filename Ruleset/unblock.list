@@ -3,29 +3,9 @@ USER-AGENT,MApi*
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
 
-# SpeedTest
-USER-AGENT,SpeedTest*
-
 # Misc
 DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,bootcss.com
-DOMAIN-SUFFIX,biquge.com.tw
-DOMAIN-SUFFIX,ip.bjango.com
-DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,loli.net
-DOMAIN-SUFFIX,maoyun.tv
-DOMAIN-SUFFIX,mmstat.com
-DOMAIN-SUFFIX,moke.com
-DOMAIN-SUFFIX,sb.sb
 DOMAIN-SUFFIX,servicewechat.com
-DOMAIN-SUFFIX,sm.ms
-DOMAIN-SUFFIX,u.nu
-DOMAIN-SUFFIX,xclient.info
-DOMAIN-SUFFIX,zimuzu.tv
-DOMAIN-SUFFIX,zmzapi.com
-DOMAIN-SUFFIX,zmzapi.net
-DOMAIN-SUFFIX,zmzfile.com
-
 
 # Alibaba
 DOMAIN-KEYWORD,alipay
@@ -54,33 +34,12 @@ DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
 
-# iQIYI
-DOMAIN-SUFFIX,qy.net
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,iqiyipic.com
-DOMAIN-SUFFIX,irs01.com
-
 # JD
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,300hu.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,jdcloud.com
 DOMAIN-SUFFIX,jcloudcs.com
-
-# NetEase
-DOMAIN-SUFFIX,126.net
-DOMAIN-SUFFIX,127.net
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,163yun.com
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,youdao.com
-DOMAIN-SUFFIX,ydstatic.com
-
-# Souhu
-DOMAIN-SUFFIX,sohu.com
-DOMAIN-SUFFIX,sohucs.com
-DOMAIN-SUFFIX,sogou.com
-DOMAIN-SUFFIX,sogoucdn.com
 
 # Tencent
 DOMAIN-SUFFIX,qq.com
@@ -96,17 +55,5 @@ DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,qcloudimg.com
 DOMAIN-SUFFIX,weixinbridge.com
 
-# Xiaomi
-DOMAIN-SUFFIX,mi.com
-DOMAIN-SUFFIX,miui.com
-DOMAIN-SUFFIX,mipay.com
-DOMAIN-SUFFIX,mi-img.com
-DOMAIN-SUFFIX,xiaomi.com
-
-# Youku
-DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,tudou.com
-DOMAIN-SUFFIX,soku.com
 
 
