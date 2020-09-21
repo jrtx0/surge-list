@@ -1,41 +1,31 @@
-DOMAIN-KEYWORD,blogspot
-
-DOMAIN-KEYWORD,dropbox
-
+# Facebook
 DOMAIN-KEYWORD,facebook
-
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,google
-
-DOMAIN-KEYWORD,github
-
-DOMAIN-KEYWORD,instagram
-
-DOMAIN-KEYWORD,twitter
-
-
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,awsstatic.com
-
-DOMAIN-SUFFIX,bing.com
-
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-KEYWORD,instagram
 
+# Github
+DOMAIN-KEYWORD,github
+
+# Google
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
 
-DOMAIN-SUFFIX,hockeyapp.net
+# Microsoft
+DOMAIN-SUFFIX,bing.com
 
-DOMAIN-SUFFIX,imgur.com
-
+# Twitter
+DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 
+# V2EX
 DOMAIN-SUFFIX,v2ex.com
 
-DOMAIN-SUFFIX,ytimg.com
 
 
