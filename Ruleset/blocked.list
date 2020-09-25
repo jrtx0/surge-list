@@ -14,6 +14,7 @@ DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ytimg.com
 
 # Microsoft
 DOMAIN-SUFFIX,bing.com
