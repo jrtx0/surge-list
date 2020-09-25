@@ -12,9 +12,7 @@ DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,ytimg.com
 
 # Microsoft
 DOMAIN-SUFFIX,bing.com
@@ -26,11 +24,21 @@ DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 
-# V2EX
-DOMAIN-SUFFIX,v2ex.com
+# YouTube
+USER-AGENT,*youtube*
+USER-AGENT,*YouTube*
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
 
 # PornHub
 DOMAIN-KEYWORD,pornhub
+
+# V2EX
+DOMAIN-SUFFIX,v2ex.com
+
 
 
 
