@@ -3,7 +3,6 @@ DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-KEYWORD,instagram
 
 # Github
 DOMAIN-KEYWORD,github
@@ -13,6 +12,9 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,gstatic.com
+
+# Instagram
+DOMAIN-KEYWORD,instagram
 
 # Microsoft
 DOMAIN-SUFFIX,bing.com
@@ -37,7 +39,7 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,pornhub
 
 # V2EX
-DOMAIN-SUFFIX,v2ex.com
+DOMAIN-KEYWORD,v2ex.com
 
 
 
