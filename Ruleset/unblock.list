@@ -2,5 +2,7 @@
 DOMAIN-KEYWORD,alipay
 
 # Tencent
+USER-AGENT,WeChat*
 DOMAIN-SUFFIX,tenpay.com
+
 
