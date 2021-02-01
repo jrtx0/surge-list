@@ -1,8 +1,10 @@
 # Alibaba
 DOMAIN-KEYWORD,alipay
 
+# Baidu
+DOMAIN-SUFFIX,baidu.com
+
 # Tencent
 USER-AGENT,WeChat*
 DOMAIN-SUFFIX,tenpay.com
-
 
