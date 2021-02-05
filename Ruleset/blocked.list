@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,twitpic.com
 # PornHub
 DOMAIN-KEYWORD,pornhub
 DOMAIN-KEYWORD,phncdn.com
+DOMAIN-KEYWORD,trafficjunky.net
 
 # YouTube
 USER-AGENT,*youtube*
