@@ -36,6 +36,7 @@ DOMAIN-KEYWORD,etahub.com
 DOMAIN-KEYWORD,nsimg.net
 DOMAIN-KEYWORD,bugsnag
 DOMAIN-KEYWORD,code.jquery.com
+DOMAIN-KEYWORD,psmimg
 
 # YouTube
 USER-AGENT,*youtube*
