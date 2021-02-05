@@ -28,7 +28,7 @@ DOMAIN-SUFFIX,twitpic.com
 
 # PornHub
 DOMAIN-KEYWORD,pornhub
-DOMAIN-SUFFIX,phncdn.com
+DOMAIN-KEYWORD,phncdn.com
 
 # YouTube
 USER-AGENT,*youtube*
