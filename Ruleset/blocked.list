@@ -26,6 +26,9 @@ DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 
+# PornHub
+DOMAIN-KEYWORD,pornhub
+
 # YouTube
 USER-AGENT,*youtube*
 USER-AGENT,*YouTube*
@@ -35,8 +38,10 @@ DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
 
-# PornHub
-DOMAIN-KEYWORD,pornhub
+# YinWang
+DOMAIN-SUFFIX,yinwang.org
+
+
 
 
 
