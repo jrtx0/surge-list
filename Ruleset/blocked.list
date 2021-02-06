@@ -36,6 +36,9 @@ DOMAIN-KEYWORD,etahub.com
 DOMAIN-KEYWORD,nsimg.net
 DOMAIN-KEYWORD,psmimg
 
+# V2EX
+DOMAIN-KEYWORD,v2ex
+
 # YouTube
 USER-AGENT,*youtube*
 USER-AGENT,*YouTube*
