@@ -16,11 +16,11 @@ DOMAIN-SUFFIX,gstatic.com
 # Instagram
 DOMAIN-KEYWORD,instagram
 
-# Microsoft
-DOMAIN-SUFFIX,bing.com
-
 # Medium
 DOMAIN-SUFFIX,medium.com
+
+# Microsoft
+DOMAIN-SUFFIX,bing.com
 
 # Twitter
 DOMAIN-KEYWORD,twitter
