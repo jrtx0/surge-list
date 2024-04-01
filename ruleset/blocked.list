@@ -55,7 +55,9 @@ DOMAIN-SUFFIX,buzzsprout.com
 # AIGC
 DOMAIN-SUFFIX,perplexity.ai
 
-
-
-
-
+# PayPal
+USER-AGENT,PayPal*
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypal.me
+DOMAIN-SUFFIX,paypal-mktg.com
+DOMAIN-SUFFIX,paypalobjects.com
