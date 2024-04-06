@@ -1,17 +1,24 @@
+# AIGC
+DOMAIN-SUFFIX,perplexity.ai
+
+# China Digital Times
+DOMAIN-SUFFIX,chinadigitaltimes.net
+
 # Facebook
-DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-KEYWORD,facebook
 
 # Github
+DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-KEYWORD,github
 
 # Google
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
-DOMAIN-SUFFIX,gstatic.com
 
 # Instagram
 DOMAIN-KEYWORD,instagram
@@ -23,11 +30,21 @@ DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,bing.com
 
 # Twitter
-DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
+DOMAIN-KEYWORD,twitter
+
+# PayPal
+USER-AGENT,PayPal*
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypal.me
+DOMAIN-SUFFIX,paypal-mktg.com
+DOMAIN-SUFFIX,paypalobjects.com
+
+# Podcast
+DOMAIN-SUFFIX,buzzsprout.com
 
 # PornHub
 DOMAIN-KEYWORD,pornhub
@@ -37,30 +54,17 @@ DOMAIN-KEYWORD,trafficjunky
 # V2EX
 DOMAIN-KEYWORD,v2ex
 
+# Wikipedia
+DOMAIN-SUFFIX,wikipedia.org
+
 # YouTube
 USER-AGENT,*youtube*
 USER-AGENT,*YouTube*
-DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,youtube
 
 # YinWang
 DOMAIN-SUFFIX,yinwang.org
-
-# Podcast
-DOMAIN-SUFFIX,buzzsprout.com
-
-# AIGC
-DOMAIN-SUFFIX,perplexity.ai
-
-# PayPal
-USER-AGENT,PayPal*
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypal.me
-DOMAIN-SUFFIX,paypal-mktg.com
-DOMAIN-SUFFIX,paypalobjects.com
-
-# China Digital Times
-DOMAIN-SUFFIX,chinadigitaltimes.net
