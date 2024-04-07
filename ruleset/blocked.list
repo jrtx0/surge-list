@@ -55,7 +55,7 @@ DOMAIN-KEYWORD,phncdn
 DOMAIN-KEYWORD,trafficjunky
 
 # Steam
-DOMAIN-SUFFIX,steamserver.net
+DOMAIN-KEYWORD,steam
 
 # V2EX
 DOMAIN-KEYWORD,v2ex
