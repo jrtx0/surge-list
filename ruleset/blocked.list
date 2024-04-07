@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,medium.com
 # Microsoft
 DOMAIN-SUFFIX,bing.com
 
+# OKX 
+DOMAIN-SUFFIX,okx.com
+
 # Twitter
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.co
