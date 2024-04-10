@@ -10,3 +10,6 @@ DOMAIN-SUFFIX,baidu.com
 # Tencent
 USER-AGENT,WeChat*
 DOMAIN-SUFFIX,tenpay.com
+
+# OpenRouter
+DOMAIN-SUFFIX,openrouter.ai
