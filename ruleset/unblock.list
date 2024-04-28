@@ -1,11 +1,14 @@
-# Custom
-DOMAIN-SUFFIX,jrtx.tech
-
 # Alibaba
 DOMAIN-KEYWORD,alipay
 
 # Baidu
 DOMAIN-SUFFIX,baidu.com
+
+# Custom
+DOMAIN-SUFFIX,jrtx.tech
+
+# Microsoft
+DOMAIN-SUFFIX,teams.live.com
 
 # Tencent
 USER-AGENT,WeChat*
