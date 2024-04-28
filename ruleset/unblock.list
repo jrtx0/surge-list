@@ -7,9 +7,6 @@ DOMAIN-SUFFIX,baidu.com
 # Custom
 DOMAIN-SUFFIX,jrtx.tech
 
-# Microsoft
-DOMAIN-KEYWORD,teams
-
 # Tencent
 USER-AGENT,WeChat*
 DOMAIN-SUFFIX,tenpay.com
