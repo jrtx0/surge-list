@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,poe.com
 
+# Blog
+DOMAIN-SUFFIX,yinwang.org
+
 # China Digital Times
 DOMAIN-SUFFIX,chinadigitaltimes.net
 
@@ -12,14 +15,24 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-KEYWORD,facebook
 
 # Github
-DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-KEYWORD,github
 
 # Google
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,gmail
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,blogspot.com
 DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,gmail
+USER-AGENT,*youtube*
+USER-AGENT,*YouTube*
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ggpht.com
+
+# Imgur
+DOMAIN-SUFFIX,imgur.com
 
 # Instagram
 DOMAIN-KEYWORD,instagram
@@ -33,6 +46,9 @@ DOMAIN-SUFFIX,bing.com
 # OKX 
 DOMAIN-SUFFIX,okx.com
 
+# POE
+DOMAIN-SUFFIX,poe.com
+
 # Twitter
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.co
@@ -42,10 +58,7 @@ DOMAIN-KEYWORD,twitter
 
 # PayPal
 USER-AGENT,PayPal*
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypal.me
-DOMAIN-SUFFIX,paypal-mktg.com
-DOMAIN-SUFFIX,paypalobjects.com
+DOAMIN-KEYWORD,paypal
 
 # Podcast
 DOMAIN-SUFFIX,buzzsprout.com
@@ -62,17 +75,4 @@ DOMAIN-KEYWORD,steam
 DOMAIN-KEYWORD,v2ex
 
 # Wikipedia
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikimedia.org
-
-# YouTube
-USER-AGENT,*youtube*
-USER-AGENT,*YouTube*
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-KEYWORD,youtube
-
-# YinWang
-DOMAIN-SUFFIX,yinwang.org
+DOMAIN-KEYWORD,wiki
